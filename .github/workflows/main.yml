@@ -40,7 +40,7 @@ jobs:
           plugin_introduction_title: yes
           #Languages plugin
           plugin_languages: yes
-          plugin_languages_ignored: xml, svg, sql, gradle, json, text, swift, ini, markdown, TOML, browserslist, cmake, Microsoft Visual Studio Solution, XML Propery List
+          plugin_languages_ignored: xml, svg, sql, gradle, json, text, swift, ini, markdown, TOML, browserslist, cmake, Microsoft Visual Studio Solution, XML Property List
           plugin_languages_limit: 0
           plugin_languages_indepth: yes
           plugin_languages_other: no
