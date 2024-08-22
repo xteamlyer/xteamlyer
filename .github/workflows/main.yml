@@ -29,7 +29,7 @@ jobs:
           plugin_lines: yes
           plugin_lines_sections: base
           #Habits plugin
-          plugin_habits: yes
+          plugin_habits: no
           plugin_habits_facts: no
           plugin_habits_charts: yes
           plugin_habits_charts_type: classic
