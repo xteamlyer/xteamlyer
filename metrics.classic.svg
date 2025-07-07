@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="570" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="552" class="">
     <defs>
         <style/>
     </defs>
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 17 repositories
+                            Contributed to 15 repositories
                         </div>
                     </section>
                 </div>
@@ -204,7 +204,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
-                                    71 Stargazers
+                                    72 Stargazers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -228,33 +228,32 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                     </svg>
-                    19 Languages
+                    20 Languages
                 </h2>
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 48.8mb of code in 965 edited files across 65 commits</small>
+                <small>estimation from 48.8mb of code in 955 edited files across 61 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="218.22925101798342" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="218.22925101798342" y="0" width="49.39543897290376" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="267.6246899908872" y="0" width="41.22600962037582" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="308.850699611263" y="0" width="31.85419478377225" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="340.70489439503524" y="0" width="26.51721632003322" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="367.2221107150684" y="0" width="19.617030602946098" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="386.8391413180145" y="0" width="18.52713661164365" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="405.36627792965817" y="0" width="17.49454960722566" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="422.8608275368838" y="0" width="15.881464050478137" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="438.74229158736193" y="0" width="7.5273788513225135" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="446.26967043868444" y="0" width="7.505092800867449" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="453.77476323955193" y="0" width="3.6803820465792296" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="457.4551452861312" y="0" width="0.9965048274907431" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="458.4516501136219" y="0" width="0.9285854356276891" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="459.3802355492496" y="0" width="0.4669458190584951" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="459.8471813683081" y="0" width="0.15281863169187113" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="221.68399343801266" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="221.68399343801266" y="0" width="46.63820014061401" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="268.3221935786267" y="0" width="41.87865010546051" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="310.2008436840872" y="0" width="32.35847199437544" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="342.55931567846267" y="0" width="26.93700492149051" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="369.49632059995315" y="0" width="19.92758378251699" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="389.4239043824702" y="0" width="18.820435903445045" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="408.2443402859152" y="0" width="17.771502226388563" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="426.0158425123038" y="0" width="16.132880243730956" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="442.1487227560348" y="0" width="7.646543238809468" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="449.7952659948442" y="0" width="7.623904382470119" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="457.41917037731434" y="0" width="1.1028357159596907" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="458.52200609327406" y="0" width="0.9432856808061871" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="459.46529177408024" y="0" width="0.40426529177408016" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="459.8695570658543" y="0" width="0.13044293414576988" height="8" fill="#427819"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -322,12 +321,6 @@
                             <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         SCSS
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Rust
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
