@@ -4,7 +4,7 @@ on:
 
 jobs:
   github-metrics:
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
     environment:
       name: PAT
     permissions:
@@ -44,8 +44,8 @@ jobs:
           plugin_languages_limit: 0
           plugin_languages_indepth: yes
           plugin_languages_other: no
-          plugin_languages_analysis_timeout: 60
-          plugin_languages_analysis_timeout_repositories: 15
+          plugin_languages_analysis_timeout: 300
+          plugin_languages_analysis_timeout_repositories: 300
           plugin_languages_categories: data, markup, programming, prose
-          plugin_languages_recent_load: 1000
-          plugin_languages_recent_days: 365
+          plugin_languages_recent_load: 500
+          plugin_languages_recent_days: 180
